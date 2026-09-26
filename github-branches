@@ -1,0 +1,8 @@
+git branch -a -vv
+  bug-fix-revert                b16e690 Revert "Fix typo in README footer"
+  bug-fix-typo                  0a93383 Fix typo in README footer
+* main                          0a93383 [origin/main: ahead 1] Fix typo in README footer
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert b16e690 Revert "Fix typo in README footer"
+  remotes/origin/bug-fix-typo   0a93383 Fix typo in README footer
+  remotes/origin/main           c8aa7b8 Add JSON data for mcino-Introduction-to-Git-and-GitHub
